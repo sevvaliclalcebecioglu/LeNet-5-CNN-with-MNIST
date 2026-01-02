@@ -3,6 +3,8 @@
 This repository contains a **simple implementation of the classic LeNet-5 Convolutional Neural Network** for handwritten digit classification using the **MNIST dataset**.  
 Additionally, there is a **Streamlit app** that allows you to upload images of digits and get predictions live.
 
+https://huggingface.co/spaces/sevvaliclal/LeNet-5-MNIST-App
+
 ---
 
 ## 🧠 About the Project
